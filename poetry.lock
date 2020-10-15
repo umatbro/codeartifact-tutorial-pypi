@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "A cross-platform lightweight package for printing colors in the terminal."
+name = "color-it"
+optional = false
+python-versions = ">=3.6"
+version = "2.1.3"
+
+[metadata]
+content-hash = "b789c46284a6925907a3174eca395154e0b5802d01a110356ed49938d2875c7a"
+python-versions = "^3.8"
+
+[metadata.hashes]
+color-it = ["d8882216367532bcf55af2d230619a5531abdfb9d378bff2f2dc85a8a0bbd6f6", "f7112efade7249e2828fb28daa400964014cac7d66b528e80c1bceffcb6da4e4"]
